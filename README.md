@@ -8,7 +8,7 @@ I'm David Joseph a Full Stack Web Developer and a husband. I Spend most of time 
 
 <!-- TODO: Add last video link -->
 
-- 🤔  I’m am curently looking for a new roles
+- 🤔  I’m am currently looking for a new roles
 - :computer: Most used line of code `console.log(code)`
 - 🔭 I’m currently working on a few full stack projects, leveraging MongoDB, Express, Node, Gastby, and React.
    I have a running list of technologies I want to dive depeer into, including React Native and python. I have a love of just building
