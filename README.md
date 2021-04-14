@@ -14,7 +14,7 @@ I'm David Joseph a Full Stack Web Developer and a husband. I Spend most of time 
    I have a running list of technologies I want to dive depeer into, including React Native and python. I have a love of just building
 - 📫 How to reach me: davidjoseph850@gmail.com.
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to play basketball even though I am not good at it.
+- ⚡ Fun fact: I have an identical twin name Daniel Joseph.
 
 #### Top Technologies
 
