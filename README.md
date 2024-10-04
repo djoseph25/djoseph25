@@ -1,6 +1,6 @@
 ## Hi I'm David <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm David Joseph a Full Stack Web Developer and a husband. I Spend most of time coding outstanding projects and improving daily.
+I'm David Joseph, a Full Stack Web Developer. I dedicate most of my time to building exceptional projects and continuously honing my skills.
 
 :mailbox: connect with Me!
 
@@ -8,7 +8,7 @@ I'm David Joseph a Full Stack Web Developer and a husband. I Spend most of time 
 
 <!-- TODO: Add last video link -->
 
-- 🤔  I’m A Junior Developer At AssitRx
+- 🤔  I'm a Mid-Level Developer at AssistRx, where I focus on creating innovative solutions that enhance healthcare technology. With a passion for problem-solving and continuous improvement, I thrive in developing impactful software that streamlines processes and makes a difference in patient care.
 - :computer: Check out my portfolio https://www.davidjoseph.me/
 - 🔭 I’m currently working on a few full stack projects, leveraging MongoDB, Express, Node, Gastby, and React.
    I have a running list of technologies I want to dive depeer into, including React Native and python. I have a love of just building
